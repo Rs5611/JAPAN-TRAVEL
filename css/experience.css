@@ -1,0 +1,27 @@
+@charset "utf-8";
+
+body {
+    font-family: "arial narrow";
+    background: url(../img/背景.jpeg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+    margin: 0px;
+}
+.header {
+    font-size: 40px;
+    font-weight:bold;
+}
+
+#home {
+    display: block;
+    font-size: 30px;
+    margin: 10px;
+}
+
+.item {
+    display: block;
+    margin: auto;
+    width: 100vw;
+}
+
